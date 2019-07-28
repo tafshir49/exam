@@ -1,0 +1,71 @@
+.bg-dark{
+	background-color:#FFFFFF!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #6D6E70;
+}
+.bg-primary {
+    background: url(../img/icrowdme-PSD---cssauthor.png)!important;
+    height: 570px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #99C50A;
+    border-color: #99C50A;
+}
+.h1, h1 {
+    font-size: 2.5rem;
+    padding: 60px;
+    color: #ced1defa ;
+}
+p {
+    margin-top: -52px;
+    margin-bottom: 2rem;
+    font-size: 34px;
+    color: #ced1defa;
+}
+.des-part {
+    font-size: 12px;
+    margin: 32px;
+    color: black;
+}
+img.des-img {
+    display: block;
+    margin: 0 auto;
+}
+.des-h {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 40px;
+}
+p.bu-p {
+    font-size: 12px;
+    padding: 0px -3px;
+    color: black;
+}
+.bu {
+    padding: 95px 0px;
+}
+
+
+button.btn.btn-primar {
+    color: #fff;
+    background-color: #26A6D1;
+    border-color: #26A6D1;
+}
+button.btn.btn-prima {
+      color: #fff;
+    background-color: #ADD136;
+    border-color: #ADD136;
+}
+p.bt {
+    font-size: 12px;
+    /* padding: 0 25px; */
+    margin: 25px;
+}
+button.btn.btn-primari {
+    color: #fff;
+    background-color: #26a6d12e;
+    border-color: #26a6d103;
+}
+
